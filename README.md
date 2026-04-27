@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm Nitai, An AI engineer based in India
+- I design, architect and build digital products that are systemically optimal
+- Currently Building sisyphus and other projects
 <!--
 **kneat2448/kneat2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
