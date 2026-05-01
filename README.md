@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm Nitai, An AI engineer based in India
+- I'm Nitai, An aspiring AI engineer based in India
 - I design and build digital products and system architectures.
 - Currently Building sisyphus and other projects
 <!--
