@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I'm Nitai, An aspiring AI engineer based in India
-- I design and build digital products and system architectures.
+- I'm Nitai, An aspiring AI/ML engineer based in India
+- I design and build digital products, ML pipelines and System architectures.
 - Currently Building sisyphus and other projects
 <!--
 **kneat2448/kneat2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
